@@ -15,7 +15,7 @@ title                    : "Community Based Surveillance"
 title_separator          : "-"
 name                     : &name "Community Based Surveillance" # &name is a YAML anchor which can be *referenced later
 description              : &description " CBS software as a Service is built to scale with microservices and cloud first, mobile first approach"
-url                      : https://eprom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://eprom.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cbs" # the subpath of your site, e.g. "/blog"
 repository               : "eprom/cbs"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
