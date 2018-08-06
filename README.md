@@ -3,9 +3,6 @@
 [![Build Status](https://travis-ci.org/eprom/cbs.svg?branch=gh-pages)]
 
 
-https://travis-ci.org/eprom/cbs.svg?branch=gh-pages
-
-
 # CBS Website
 
 ## Developing locally
