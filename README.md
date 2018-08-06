@@ -1,6 +1,6 @@
 # CBS Website
 
-[![Build Status](https://travis-ci.org/eprom/cbs.svg?branch=gh-pages)]
+[![Build Status](https://travis-ci.org/eprom/cbs.svg?branch=gh-pages)](https://travis-ci.org/eprom/cbs)
 
 
 # CBS Website
