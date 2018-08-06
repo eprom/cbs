@@ -1,5 +1,13 @@
 # CBS Website
 
+[![Build Status](https://travis-ci.org/eprom/cbs.svg?branch=gh-pages)]
+
+
+https://travis-ci.org/eprom/cbs.svg?branch=gh-pages
+
+
+# CBS Website
+
 ## Developing locally
 1. [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/). 
 1. `gem install bundler`
