@@ -4,16 +4,18 @@ Samson Gejibo:
   name        : "Samson Gejibo"
   uri         : "http://samsongejibo.io"
   email       : "samson.gejibo@redcross.no"
-  bio         : "Tech lead for CBS project"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "Tech lead at CBS project"
+  location    : "Oslo, Norway"
   twitter     : "samsongejibo"
+  github      : "eprom"
   
 
 Rebecca Madeleine Bushby:
   name        : "Rebecca Madeleine Bushby"
   url         : "http://rebeccamadeleinebushby.io"
   email       : "rebecca.madeleine.bushby@redcross.no"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+  bio         : "CBS Activity Coordinator"
+  location    : "Oslo, Norway"
   twitter     : "RebeccaMadeleineBushby"
+  github      : "rebecca"
   
