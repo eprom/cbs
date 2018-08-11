@@ -1,9 +1,9 @@
 ---
 title: History
 layout: single
-permalink: /community/history/
+permalink: /cbs/history/
 sidebar:
-  nav: "community"
+  nav: "cbs"
 ---
 
 ## The story of CBS

@@ -1,24 +1,38 @@
 # main links
 main:
-  - title: "COMMUNITY"
-    url: /community/
-  - title: "DOCS"
-    url: /docs/
-  - title: "DEMO"
-    url: /demo/
+  - title: "What is CBS"
+    url: /cbs/
+  - title: "Contributing"
+    url: /contribute/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact us"
+    url: /contactus/
 
-
-community :
-  - title: COMMUNITY
-    url: /community/
+cbs :
+  - title: What is CBS
+    url: /cbs/
     children:
-      - title: "Blog"
-        url: /community/blog/
       - title: "History"
-        url: /community/history/
+        url: /cbs/history/
+      - title: "Technology"
+        url: /cbs/technology/
+      - title: FAQ
+        url: "/cbs/faq/"
       - title: "Governance"
-        url: /community/governance/
-      - title: "Research"
-        url: /community/research/
-      - title: "Support"
-        url: /community/support/  
+        url: /cbs/governance/
+      - title: "CBS in media"
+        url: /cbs/media/
+      - title: "Documents"
+        url: /cbs/documents/  
+
+contribute:
+  - title: Contributing
+    url: /contribute/
+    children:
+      - title: "Events"
+        url: /contribute/events/
+      - title: Github guide for CBS
+        url: /contribute/githubguide/
+      - title: Contributor code of conduct
+        url: /contribute/codeofconduct/

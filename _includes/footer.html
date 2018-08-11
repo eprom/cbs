@@ -15,6 +15,9 @@
       {% if site.author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true" style="margin-right: 4px"></i>Bitbucket</a></li>
       {% endif %}
+      {% if site.author.slack %}
+      <li><a href="https://{{ site.author.slack }}.slack.com"><i class="fab fa-fw fa-slack" aria-hidden="true" style="margin-right: 4px"></i>Slack</a></li>
+    {% endif %}
     </ul>
   </div>
   
