@@ -6,8 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-codeathon2018-1600x640.jpg
-  cta_label: ""
-  cta_url: "/contribute/"
+
  
 excerpt: ""
 intro: 
