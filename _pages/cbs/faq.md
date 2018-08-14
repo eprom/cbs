@@ -1,5 +1,5 @@
 ---
-title: Support
+title: FAQ
 author_profile: false
 layout: single
 permalink: /cbs/faq/
