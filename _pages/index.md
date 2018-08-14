@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "SAVING LIVES ONE CODE AT A TIME"
+title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -9,7 +9,7 @@ header:
   cta_label: "Get started"
   cta_url: "/contribute/"
  
-excerpt: "CBS Software as a Service is built to scale with microservices, cloud first, and mobile first approach"
+excerpt: ""
 intro: 
   - excerpt: The Red Cross open source community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.The system is developed by volunteers. We currently have an operational MVP in Somalia, but we need your help to save even more lives! Read how you can contribute here and get in touch!' 
 feature_row:
