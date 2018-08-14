@@ -33,6 +33,9 @@ feature_row:
     alt: "Welcome to the Red Cross CBS Blog!"
     title: "Welcome to the Red Cross CBS Blog!"
     excerpt: "Pop an email to rebecca.madeleine.bushby@redcross.no or give her a call on +47 45880521!"
+    url: "https://medium.com/redcrosscbs/welcome-to-the-red-cross-community-based-surveillance-blog-c8b450e83fef"
+    btn_label: "Read More"
+    btn_class: "btn--info"
 
 
 #feature_row2:
