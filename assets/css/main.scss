@@ -11,6 +11,10 @@ $link-color: #1590d3;
 $link-color-visited: #1590d3;
 $link-color-hover: #1590d3;
 
+.article-wrap p {
+  font-size: 12px; /* 16 is the default increase if you want it larger */
+}
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
