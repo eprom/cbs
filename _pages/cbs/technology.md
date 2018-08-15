@@ -8,9 +8,9 @@ sidebar:
 
 Since starting this work in 2013, the assumption has been that technologies and tools are already out there, we just need to access and use them. But, after three implementation phases and extensive research, we have come to the conclusion that we need a custom-built application for the Red Cross Red Crescent CBS.
 
-CBS is a web application built with an Angular2 frontend and a dotnet core backend. It is based on an event-driven, microservices architecture, meaning it is developed as several separate applications (or bounded contexts), but appear as one application to the end user. The bounded contexts communicate with each other by publishing and subscribing to events. In production, CBS will run in Docker containers on a managed Kubernetes cluster in Azure Container Service (AKS). It is all open-source and all the techy-information behind the software can be found on our GitHub page.
+CBS is a web application built with an Angular2 frontend and a dotnet core backend. It is based on an event-driven, microservices architecture, meaning it is developed as several separate applications (or bounded contexts), but appear as one application to the end user. The bounded contexts communicate with each other by publishing and subscribing to events. In production, CBS will run in Docker containers on a managed Kubernetes cluster in Azure Container Service (AKS). It is all open-source and all the techy-information behind the software can be found on our [GitHub page](https://github.com/IFRCGo/cbs).
 
-An MVP is currently operational in Somalia and we are constantly looking for people to help us improve the software. Click here to see how you can contribute!
+An MVP is currently operational in Somalia and we are constantly looking for people to help us improve the software. [Click here to see how you can contribute](https://src.cbsrc.org/contribute/)!
 
 | Name | Description | Issues |
 |---|---|---|
