@@ -10,7 +10,7 @@ header:
  
 excerpt: ""
 intro: 
-  - excerpt: The Red Cross open source community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.The system is developed by volunteers. We currently have an operational MVP in Somalia, but we need your help to save even more lives! Read how you can contribute here and get in touch!' 
+  - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives. We currently have an operational MVP in Somalia, but we need your help to save even more lives! Read how you can contribute [here](https://src.cbsrc.org/contribute/) or get in [touch](https://src.cbsrc.org/contactus/)!
 feature_row:
   
   - image_path: assets/images/cbs_blog_pic_1.png
