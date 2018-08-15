@@ -8,7 +8,7 @@ sidebar:
 
 As a humanitarian organization, the Norwegian Red Cross (NorCross) understands health needs and risks. However, we know practically nothing about programming, coding and otherwise building a software. This is why we need contributors to help us. Also, it gives technologists, designers, engineers and many others the opportunity to contribute with their skills and expertise for the direct benefit (i.e. lifesaving) of Red Cross volunteers and communities!
 
- [<a href="/assets/images/codeathon2018.PNG"><img src="/assets/images/Skjermbilde.PNG"></a>](https://www.youtube.com/watch?v=9E46qQnjfbI)
+ [<a href="/assets/images/codeathon2018.PNG"><img src="/assets/images/codeathon2018.PNG"></a>](https://www.youtube.com/watch?v=9E46qQnjfbI)
 
 
 ### We are constantly looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast, an advertising talent or a graphics aficionado – we need your help to save lives! 
