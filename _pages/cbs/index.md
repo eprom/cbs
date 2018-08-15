@@ -16,10 +16,6 @@ Public health crises, such as disease outbreaks and famine, most often occur in 
 
 The information needed during an emergency is often complex and is required in real-time. Information is needed for a variety of reasons: to monitor and understand health risks, to allocate resources and ensure early and effectively action in dynamic contexts. This requires reliable data from a number of sources. The Red Cross and Red Crescent Movement consists of a network of 17 million active volunteers worldwide. They can and will report what is going on in their communities – if they are given the tools to do so! By allowing for communities themselves to report on disease risk, potential outbreaks can be detected earlier, and responses can happen quicker.
 
-![Skjermbilde.PNG](https://github.com/eprom/cbs/blob/gh-pages/assets/images/Skjermbilde.PNG)
-
  <a href="/assets/images/Skjermbilde.PNG"><img src="/assets/images/Skjermbilde.PNG"></a>
-    <figcaption>.</figcaption>
-</figure>
-
+ 
 
