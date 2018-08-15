@@ -18,4 +18,8 @@ The information needed during an emergency is often complex and is required in r
 
 ![Skjermbilde.PNG](https://github.com/eprom/cbs/blob/gh-pages/assets/images/Skjermbilde.PNG)
 
+ <a href="/assets/images/Skjermbilde.PNG"><img src="/assets/images/Skjermbilde.PNG"></a>
+    <figcaption>.</figcaption>
+</figure>
+
 
