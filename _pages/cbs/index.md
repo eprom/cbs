@@ -1,5 +1,5 @@
 ---
-title: What is CBS
+title: What is CBS?
 layout: single
 permalink: /cbs/
 sidebar:
