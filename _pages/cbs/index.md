@@ -12,8 +12,8 @@ In other words, community based surveillance (CBS) is the use of input from comm
 
 ## Why is CBS needed?
 
-Public health crises, such as disease outbreaks and famine, most often occur in settings where health systems and public health surveillance are weak. This gap in
-
-national and global surveillance poses a risk to communities, as disease outbreaks can develop undetected. In an emergency, people’s vulnerabilities to health risks also increase, often simultaneously to health services being overwhelmed or put out of function.
+Public health crises, such as disease outbreaks and famine, most often occur in settings where health systems and public health surveillance are weak. This gap in national and global surveillance poses a risk to communities, as disease outbreaks can develop undetected. In an emergency, people’s vulnerabilities to health risks also increase, often simultaneously to health services being overwhelmed or put out of function.
 
 The information needed during an emergency is often complex and is required in real-time. Information is needed for a variety of reasons: to monitor and understand health risks, to allocate resources and ensure early and effectively action in dynamic contexts. This requires reliable data from a number of sources. The Red Cross and Red Crescent Movement consists of a network of 17 million active volunteers worldwide. They can and will report what is going on in their communities – if they are given the tools to do so! By allowing for communities themselves to report on disease risk, potential outbreaks can be detected earlier, and responses can happen quicker.
+
+![Image of CBS](cbs/Skjermbilde.PNG)
