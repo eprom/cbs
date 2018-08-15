@@ -18,4 +18,3 @@ The information needed during an emergency is often complex and is required in r
 
 ![Skjermbilde.PNG](https://github.com/eprom/cbs/blob/gh-pages/assets/images/Skjermbilde.PNG)
 
-![Skjermbilde.PNG](cbs/assets/images/Skjermbilde.PNG)
