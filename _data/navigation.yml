@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "What is CBS"
+  - title: "What is CBS?"
     url: /cbs/
   - title: "Contributing"
     url: /contribute/
@@ -10,7 +10,7 @@ main:
     url: /contactus/
 
 cbs :
-  - title: What is CBS
+  - title: What is CBS?
     url: /cbs/
     children:
       - title: "History"
@@ -21,7 +21,7 @@ cbs :
         url: "/cbs/faq/"
       - title: "Governance"
         url: /cbs/governance/
-      - title: "CBS in media"
+      - title: "CBS in the media"
         url: /cbs/media/
       - title: "Documents"
         url: /cbs/documents/  
