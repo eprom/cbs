@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: https://src.cbsrc.org/
   - title: "What is CBS?"
     url: /cbs/
   - title: "Contributing"
