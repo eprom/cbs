@@ -13,9 +13,7 @@ cbs :
   - title: What is CBS?
     url: /cbs/
     children:
-      - title: "History"
-        url: /cbs/history/
-      - title: "Technology"
+      - title: "The technology"
         url: /cbs/technology/
       - title: FAQ
         url: "/cbs/faq/"
