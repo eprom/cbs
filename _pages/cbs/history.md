@@ -21,6 +21,8 @@ This is the crisis which sparked the idea for our innovation. By finding a simpl
 With the excellent help of tech volunteers, we started programming a community based surveillance system where Red Cross volunteers based in local communities could report on health risks via SMS. The reports are logged in a system, which allows for an overview and analysis of the health situation. By reviewing the data in real time, we are able to see peaks in diseases cases and provide responses which treat people before more are infected.
 Last year, a cholera outbreak affected 80 000 people in Somalia. An early version of the community based surveillance tool enabled daily and real time reporting from both clinics and first aid posts during the outbreak. This ensured a targeted response which curbed the epidemic.
 
+[cbs/1.PNG]
+
 **Today, community based surveillance is live in Somalia**
 
 Through the MVP of the open source software, Somali Red Crescent volunteers are reporting symptoms of cholera from their communities via SMS. The data is monitored and reviewed for unusual spikes in case loads or clusters of cases that may indicate the beginning of a new outbreak. In collaboration with the health authorities we can then respond early, stopping a potential epidemic before it happens.
