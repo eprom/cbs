@@ -16,14 +16,14 @@ feature_row:
   - image_path: assets/images/cbs_blog_pic_1.png
     alt: "The story of CBS"
     title: "The story of CBS"
-    excerpt: "Innovation often starts with a crisis. Our crisis was the Sierra Leone cholera outbreak in 2012."
+    excerpt:
     url: "https://medium.com/redcrosscbs/the-story-of-cbs-4734be244c5b"
     btn_label: "Read More"
     btn_class: "btn--info"
    
   - image_path: /assets/images/cbs_blog_pic_3.jpeg
     title: "Thinking of joining this years’ codeathon?"
-    excerpt: "Well, the answer should be yes! If you need further convincing though, check out what the contributors said during last years’ event!"
+    excerpt: 
     url: "https://medium.com/redcrosscbs/thinking-of-joining-this-years-codeathon-7c46d55f57da"
     btn_label: "Read More"
     btn_class: "btn--info"   
