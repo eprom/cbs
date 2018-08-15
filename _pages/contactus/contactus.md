@@ -15,3 +15,9 @@ Rebecca M. Bushby
 Email @ rebecca.madeleine.bushby@redcross.no 
 
 Phone @ +47 45880521
+
+<figure class="third">
+	<img src="/images/cbs_blog_pic_1.png">
+	<img src="/images/cbs_blog_pic_2.JPEG">
+	<img src="/images/cbs_blog_pic_3.jpeg">
+
