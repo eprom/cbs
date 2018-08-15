@@ -26,38 +26,4 @@ Last year, a cholera outbreak affected 80 000 people in Somalia. An early versio
 Through the MVP of the open source software, Somali Red Crescent volunteers are reporting symptoms of cholera from their communities via SMS. The data is monitored and reviewed for unusual spikes in case loads or clusters of cases that may indicate the beginning of a new outbreak. In collaboration with the health authorities we can then respond early, stopping a potential epidemic before it happens.
 
 
-## Team
 
-There are countless folks who made CBS what it is. Below are the people who have gone above and beyond.
-
-# Domain Experts
-
-Anine, Roxanne,...
-
-#### Core Development Team
-
-Karoline, Einar, Bjørn, Alexander,Sindre
-
-#### Core Development Team Alumni
-
-Einar,...
-
-#### Significant Code Contributors
-
-Names coming soon
-
-#### Code Contributors
-
-All contributors
-
-#### Code Patches, Documentation, Translation, and Other Contributions
-
- Names coming soon
-
-If we forgot to add you, we are very sorry about the oversight. Please email <contact@cbsrc.org>.
-
-## Press
-
-Below is a list of what others have said about Open Data Kit.
-    <li><a href="https://medium.com/redcrosscbs/the-story-of-cbs-4734be244c5b">The Story of CBS</a><br />
-	Medium Corporation, 2018.</li>
