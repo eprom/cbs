@@ -17,7 +17,7 @@ As a volunteer you are free to choose how you want to contribute – whether it 
 
 *There are several ways to start contributing.*  
 
-* [Email Rebecca](Rebecca.madeleine.bushby@redcross.no) to find out how you can best get started.  
+* [Contact us](https://src.cbsrc.org/contactus/) to find out how you can best get started.  
 
 * Sign up for one of our [Events](https://src.cbsrc.org/contribute/events/)  
 
