@@ -13,3 +13,5 @@ Join us for the 3rd Community Based Surveillance Codeathon during Oslo Innovatio
 Read more about the programme [here](https://oiw.no/program/red-cross-codeathon-community-based-surveillance) 
 
 [Sign up here!](https://events.provisoevent.no/r%C3%B8dekors/events/red-cross-codeathon-30/register)
+
+<iframe src="https://www.youtube.com/embed/E_0_2GilvAc" width="560" height="315" frameborder="0"> </iframe>
