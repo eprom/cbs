@@ -11,8 +11,22 @@ $link-color: #1590d3;
 $link-color-visited: #1590d3;
 $link-color-hover: #1590d3;
 
-.article-wrap p {
-  font-size: 12px; /* 16 is the default increase if you want it larger */
+@import "minimal-mistakes";
+
+html {
+  font-size: 16px; // change to 12px
+
+  @include breakpoint($medium) {
+    font-size: 18px; // change to 16px
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px; // change to 18px
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px; // change to 20px
+  }
 }
 
 @charset "utf-8";
