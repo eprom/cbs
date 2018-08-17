@@ -5,7 +5,7 @@ title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/3banner-codeathon2018-1600x640.jpg
+  overlay_image: /assets/images/5banner-codeathon2018-1600x640.jpg
 
  
 excerpt: ""
