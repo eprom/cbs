@@ -10,7 +10,7 @@ main:
     url: https://medium.com/redcrosscbs
   - title: "Contact us"
     url: /contactus/
-  - title: Login
+  - title: Demo
     url: https://cbs-demo.dolittle.cloud/
 
 cbs :
