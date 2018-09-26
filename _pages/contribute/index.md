@@ -6,7 +6,9 @@ sidebar:
     nav: "contribute"
 ---
 
-As a humanitarian organization, the Norwegian Red Cross (NorCross) understands health needs and risks. However, we know practically nothing about programming, coding and otherwise building a software. This is why we need contributors to help us. Also, it gives technologists, designers, engineers and many others the opportunity to contribute with their skills and expertise for the direct benefit (i.e. lifesaving) of Red Cross volunteers and communities!
+As a humanitarian organization, the Norwegian Red Cross (NorCross) understands humanitarian health needs and risks. With the support of bright minds on programming, coding and software-building, we are creating a life saving tool. 
+
+We are constantly looking for tech volunteers to help us with this! It gives technologists, designers, engineers and many others the opportunity to contribute with their skills and expertise for the direct benefit (i.e. lifesaving) of Red Cross volunteers and communities!
 
 <iframe src="https://www.youtube.com/embed/9E46qQnjfbI" width="560" height="315" frameborder="0"> </iframe>
 
