@@ -7,7 +7,7 @@ sidebar:
   nav: "cbs"
 ---
 
-The Red Cross CBS project is an open-source community driven project. Anyone with an interest in the project can join the community and contribute to the project design. All community members are expected to follow the code of conduct.
+The Red Cross CBS project is an open-source community driven project. Anyone with an interest in the project can join the community and contribute to the project design. All community members are expected to follow the [code of conduct](https://src.cbsrc.org/contribute/codeofconduct/).
 
 ## Roles and Responsibilities
 
