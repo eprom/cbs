@@ -15,7 +15,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Community Based Surveillance" # &name is a YAML anchor which can be *referenced later
 description              : &description " CBS software as a Service is built to scale with microservices and cloud first, mobile first approach"
-url                      : "https://src.cbsrc.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cbsrc.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "ifrcgo/cbs"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,8 +103,8 @@ author:
   bio              : "Community based Surveillance System"
   location         : "Global"
   email            :
-  uri              : "https://src.cbsrc.org"
-  home             : "https://src.cbsrc.org"
+  uri              : "https://cbsrc.org"
+  home             : "https://cbsrc.org"
   bitbucket        :
   slack            : "cbsv2"
   codepen          :
