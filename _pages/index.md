@@ -18,10 +18,10 @@ intro:
   
 feature_row:
   
-  - image_path: assets/images/globe.PNG
-    alt: "CBS Design Principle 1: Global Access"
-    title: " CBS Design Principle 1: Global Access"
-    excerpt: Use of CBS cannot be limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves.   
+  - image_path: assets/images/scale.PNG
+    alt: "CBS Design Principle 1: Scalability"
+    title: " CBS Design Principle 1: Scalability"
+    excerpt: There can be no limit on the number of countries and number of users using CBS at the same time.   
    
   - image_path: /assets/images/cbs_blog_pic_3.jpeg
     title: "Thinking of joining this years’ codeathon?"
