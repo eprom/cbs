@@ -5,7 +5,7 @@ title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/Website Banner5.png
+  overlay_image: /assets/images/WebsiteBanner5.png
     
  
 excerpt: ""
@@ -33,7 +33,7 @@ feature_row:
     title: " CBS Design Principle 3: Global Access"
     excerpt: Use of CBS cannot be limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves.   
   
-  - image_path: assets/images/real time.PNG
+  - image_path: assets/images/realtime.PNG
     alt: "CBS Design Principle 4: Real Time"
     title: " CBS Design Principle 4: Real Time"
     excerpt: CBS is built for real time data collection, decision-making and early response.   
