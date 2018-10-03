@@ -28,14 +28,6 @@ feature_row:
     title: " CBS Design Principle 3: Global Access"
     excerpt: Use of CBS cannot be limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves.   
     
-#feature_row2:
- # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-  #  alt: "How we do it"
-   # title: "How we do it"
-   # excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with' 
-  # url: "/community/"
-  #  btn_label: "<i class='fas fa-users'></i> Join the community"
-  #  btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
