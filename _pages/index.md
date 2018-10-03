@@ -5,12 +5,12 @@ title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/6banner-codeathon2018-1600x640 (1).jpg
+  overlay_image: /assets/images/Website Banner1.png
     
  
 excerpt: ""
 intro: 
-  - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives. We currently have an operational MVP in Somalia, but we need your help to save even more lives! Read how you can contribute [here](https://src.cbsrc.org/contribute/) or get in [touch](https://src.cbsrc.org/contactus/)!
+  - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
 feature_row:
   
   - image_path: assets/images/cbs_blog_pic_1.png
