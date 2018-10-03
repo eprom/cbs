@@ -13,13 +13,10 @@ intro:
   - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
 feature_row:
   
-  - image_path: assets/images/cbs_blog_pic_1.png
-    alt: "The story of CBS"
-    title: "The story of CBS"
-    excerpt:
-    url: "https://medium.com/redcrosscbs/the-story-of-cbs-4734be244c5b"
-    btn_label: "Read More"
-    btn_class: "btn--info"
+  - image_path: assets/images/globe.png
+    alt: "CBS Design Principle 1: Global Access"
+    title: " CBS Design Principle 1: Global Access"
+    excerpt: Use of CBS cannot be limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves.   
    
   - image_path: /assets/images/cbs_blog_pic_3.jpeg
     title: "Thinking of joining this years’ codeathon?"
