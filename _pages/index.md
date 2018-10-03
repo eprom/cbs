@@ -7,15 +7,10 @@ header:
   overlay_filter: "0"
   overlay_image: /assets/images/WebsiteBanner5.png
     
- 
 excerpt: ""
 intro: 
   - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
-  
-  
-  
-  
-  
+    
 feature_row:
   
    - image_path: assets/images/scale.PNG
@@ -38,7 +33,6 @@ feature_row:
     title: " CBS Design Principle 4: Real Time"
     excerpt: CBS is built for real time data collection, decision-making and early response.   
     
-
 #feature_row2:
  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
   #  alt: "How we do it"
