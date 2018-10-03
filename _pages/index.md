@@ -27,11 +27,6 @@ feature_row:
     alt: "CBS Design Principle 3: Global Access"
     title: " CBS Design Principle 3: Global Access"
     excerpt: Use of CBS cannot be limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves.   
-  
-  - image_path: assets/images/realtime.PNG
-    alt: "CBS Design Principle 4: Real Time"
-    title: " CBS Design Principle 4: Real Time"
-    excerpt: CBS is built for real time data collection, decision-making and early response.   
     
 #feature_row2:
  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
