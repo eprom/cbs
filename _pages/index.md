@@ -1,11 +1,15 @@
 ---
 layout: splash
 permalink: /
-title: ""
-header:
-  overlay_color: "#000"
-  overlay_filter: "0"
-  overlay_image: /assets/images/WebsiteBanner5.png
+title: "CBS"
+single_layout_gallery:
+  - image_path: /assets/images/WebsiteBanner5.png
+    alt: "single layout with header example"
+last_modified_at: 2018-03-20T15:59:52-04:00
+toc: true
+toc_label: "Included Layouts"
+toc_icon: "columns"
+---
     
 excerpt: ""
 intro: 
