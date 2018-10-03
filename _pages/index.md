@@ -23,12 +23,10 @@ feature_row:
     title: " CBS Design Principle 1: Scalability"
     excerpt: There can be no limit on the number of countries and number of users using CBS at the same time.   
    
-  - image_path: /assets/images/cbs_blog_pic_3.jpeg
-    title: "Thinking of joining this years’ codeathon?"
-    excerpt: 
-    url: "https://medium.com/redcrosscbs/thinking-of-joining-this-years-codeathon-7c46d55f57da"
-    btn_label: "Read More"
-    btn_class: "btn--info"   
+  - image_path: /assets/images/user friendly.PNG
+    alt: "CBS Design Principle 2: User Friendliness and Interactivity"
+    title: "CBS Design Principle 2: User Friendliness and Interactivity"
+    excerpt: CBS must be easy to set up and easy to use by all users and enable easy communication and relevant feedback among and to all users  
 
   - image_path: /assets/images/cbs_blog_pic_2.JPEG
     alt: "Welcome to the Red Cross CBS Blog!"
