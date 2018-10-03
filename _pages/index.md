@@ -28,13 +28,11 @@ feature_row:
     title: "CBS Design Principle 2: User Friendliness and Interactivity"
     excerpt: CBS must be easy to set up and easy to use by all users and enable easy communication and relevant feedback among and to all users  
 
-  - image_path: /assets/images/cbs_blog_pic_2.JPEG
-    alt: "Welcome to the Red Cross CBS Blog!"
-    title: "Welcome to the Red Cross CBS Blog!"
-    excerpt: 
-    url: "https://medium.com/redcrosscbs/welcome-to-the-red-cross-community-based-surveillance-blog-c8b450e83fef"
-    btn_label: "Read More"
-    btn_class: "btn--info"
+  - image_path: /assets/images/globe.PNG
+    alt: "CBS Design Principle 3: Global Access"
+    title: "CBS Design Principle 3: Global Access"
+    excerpt: The use of CBS cannot be limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves.    
+   
 
 
 #feature_row2:
