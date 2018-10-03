@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Home"
+  - title: "HOME"
     url: /
-  - title: "What is CBS?"
+  - title: "WHAT IS CBS?"
     url: /cbs/
-  - title: "Contributing"
+  - title: "CONTRIBUTING"
     url: /contribute/
-  - title: "Blog"
+  - title: "BLOG"
     url: https://medium.com/redcrosscbs
-  - title: "Contact us"
+  - title: "CONTACT US"
     url: /contactus/
-  - title: GitHub
+  - title: GITHUB
     url: https://github.com/IFRCGo/cbs
 
 cbs :
