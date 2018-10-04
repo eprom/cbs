@@ -23,9 +23,8 @@ feature_row:
     alt: "User Friendliness and Interactivity"
     title: "User Friendliness and Interactivity"
     excerpt: CBS is built to be easy to set up and easy to use by all users and enable easy communication and relevant feedback among and to all users  
-   
-#feature_row2:
-  - image_path: /assets/images/globe.PNG
+    
+    - image_path: /assets/images/globe.PNG
     alt: "Global Access"
     title: "Global Access"
     excerpt: The use of CBS is not limited by licensing or cost. It must be made available to all 190 Red Cross National Societies. If any external actor (other NGOs, WHO) wants to use CBS they should be able to take the source code, build and deploy it themselves. 
