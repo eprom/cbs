@@ -3,9 +3,7 @@ layout: splash
 permalink: /
 title: ""
 header:
-  overlay_color: "#000"
-  overlay_filter: "0"
-  overlay_image: /assets/images/WebsiteBanner7.png
+  image: /assets/images/cbs_blog_pic_3.jpeg
     
  
 excerpt: ""
@@ -15,11 +13,10 @@ intro:
   
 feature_row:
 
-  - image_path: assets/images/scale.PNG
-    alt: "Scalability"
-    title: "Scalability"
-    excerpt: CBS is built so there is no limit on the number of countries and number of users at the same time.   
-
+  - image_path: 
+    alt: Community Based Surveillance
+    excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
+    
 #feature_row2:
  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
   #  alt: "How we do it"
