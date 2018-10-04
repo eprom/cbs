@@ -4,13 +4,7 @@ permalink: /
 title: ""
 excerpt: "This post should [...]"
 header:
-  overlay_image: /assets/images/12.PNG
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Download"
-      url: "https://github.com"
-    
+  image: /assets/images/image-filename.jpg
  
 excerpt: ""
 intro: 
