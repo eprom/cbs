@@ -12,10 +12,6 @@ excerpt: ""
 intro: 
   - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
   
-<figure>
-    <img src="https://cbsrc.org/assets/images/Frontpageimage.PNG" 
-  
-  
 feature_row:
   
   - image_path: assets/images/scale.PNG
