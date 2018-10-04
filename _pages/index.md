@@ -12,12 +12,17 @@ excerpt: ""
 intro: 
   - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
   
+    <a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage2.png"></a>
   
   
   
   
 feature_row:
 
+  - image_path: assets/images/scale.PNG
+    alt: "Scalability"
+    title: "Scalability"
+    excerpt: CBS is built so there is no limit on the number of countries and number of users at the same time.   
 
 #feature_row2:
  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -35,5 +40,4 @@ feature_row:
 
 {% include feature_row id="feature_row2" type="right" %}
   
-  <a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage2.png"></a>
  
