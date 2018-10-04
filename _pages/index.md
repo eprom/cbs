@@ -5,7 +5,7 @@ title: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/WebsiteBanner6.png
+  overlay_image: /assets/images/WebsiteBanner7.png
     
  
 excerpt: ""
