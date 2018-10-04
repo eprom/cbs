@@ -3,18 +3,18 @@ layout: splash
 permalink: /
 title: ""
 header:
-  image: /assets/images/cbs_blog_pic_3.jpeg
+  image: /assets/images/1.PNG
     
  
 excerpt: ""
 intro: 
-  - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
+  - excerpt: RED CROSS COMMUNITY BASED SURVEILLANCE
   
   
 feature_row:
 
   - image_path: 
-    alt: Community Based Surveillance
+    alt: 
     excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
     
 #feature_row2:
