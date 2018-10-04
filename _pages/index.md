@@ -2,8 +2,13 @@
 layout: splash
 permalink: /
 title: ""
+excerpt: "**Red Cross Community Based Surveillance**"
 header:
-  image: /assets/images/1.PNG
+  overlay_image: /assets/images/1.PNG
+  caption:
+  actions:
+    - label: "More Info"
+      url: "https://cbsrc.org/cbs/
     
  
 excerpt: ""
