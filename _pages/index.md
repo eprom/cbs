@@ -2,18 +2,19 @@
 layout: splash
 permalink: /
 title: ""
-excerpt: "**Red Cross Community Based Surveillance**"
+excerpt: "This post should [...]"
 header:
-  overlay_image: /assets/images/1.PNG
-  caption:
+  overlay_image: /assets/images/12.PNG
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "More Info"
-      url: "https://cbsrc.org/cbs/
+    - label: "Download"
+      url: "https://github.com"
     
  
 excerpt: ""
 intro: 
-  - excerpt: RED CROSS COMMUNITY BASED SURVEILLANCE
+  - excerpt: **RED CROSS COMMUNITY BASED SURVEILLANCE**
   
   
 feature_row:
