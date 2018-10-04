@@ -1,18 +1,17 @@
 ---
+title: "Community Based Surveillance Project"
 layout: splash
 permalink: /
-title: ""
+date: 2018-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/12.PNG
     
  
 excerpt: ""
 intro: 
   - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
-  
-  
   
   
   
