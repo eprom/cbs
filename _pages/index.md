@@ -2,21 +2,23 @@
 layout: splash
 permalink: /
 title: ""
-excerpt: "This post should [...]"
 header:
-  image: /assets/images/image-filename.jpg
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/12.png
+    
  
 excerpt: ""
 intro: 
-  - excerpt: **RED CROSS COMMUNITY BASED SURVEILLANCE**
+  - excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
+  
+  
+  
   
   
 feature_row:
 
-  - image_path: 
-    alt: 
-    excerpt: The Red Cross community based surveillance system allows for people to report on health risks in their communities. By monitoring real-time data, we can respond to an outbreak before it spins out of control, thereby saving lives.
-    
+
 #feature_row2:
  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
   #  alt: "How we do it"
@@ -32,7 +34,7 @@ feature_row:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="right" %}
-
-<a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage2.png"></a>
+  
+  <a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage2.png"></a>
   
  
