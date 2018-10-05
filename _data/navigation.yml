@@ -19,6 +19,8 @@ cbs :
     children:
       - title: "The technology"
         url: /cbs/technology/
+      - tite: "The story of CBS"
+        url: /cbs/thestoryofcbs/
       - title: FAQ
         url: "/cbs/faq/"
       - title: "Governance"
