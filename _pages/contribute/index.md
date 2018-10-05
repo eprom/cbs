@@ -6,7 +6,7 @@ sidebar:
     nav: "contribute"
 ---
 
-As a humanitarian organization, the Norwegian Red Cross (NorCross) understands humanitarian health needs and risks. With the support of bright minds on programming, coding and software-building, we are creating a life saving tool. 
+As a humanitarian organization, the Norwegian Red Cross (NorCross) understands humanitarian health needs and risks. NorCross is supporting many ongoing health programs and projects in different countries and also respond to emergencies with field hospitals and public health experts. Lately, NorCross has taken the lead to develop a platform for community based surveillance. We have the health knowledge and activities in place to detect epidemic prone diseases in the communities and the collaboration to respond, but we need the technical support to create a platform that makes the communication between these quick and easy. This has started now and with the support of bright minds on programming, coding, software-building and user experience we currently have an operational MVP being piloted in Somalia, but we are continuously working to develop and improve the platform to ensure cases are detected, alerts are sent and responded to and outbreaks are stopped early. 
 
 We are constantly looking for tech volunteers to help us with this! It gives technologists, designers, engineers and many others the opportunity to contribute with their skills and expertise for the direct benefit (i.e. lifesaving) of Red Cross volunteers and communities!
 
