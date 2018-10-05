@@ -36,4 +36,7 @@ feature_row:
   
   <a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage2.png"></a>
   
+  
+  <a href="/assets/images/logos.png"><img src="/assets/images/logos.png"></a>
+  
  
