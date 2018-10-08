@@ -2,6 +2,7 @@ language: ruby
 cache: bundler
 gemfile: Gemfile
 script:
+  - bundle install
   - bundle exec jekyll build
 branches:
   only:
