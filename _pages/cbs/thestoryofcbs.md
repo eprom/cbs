@@ -1,9 +1,9 @@
 ---
 title: The Story of CBS
 layout: single
-permalink: /thestoryofcbs/
+permalink: /cbs/thestoryofcbs/
 sidebar:
-  nav: "thestoryofcbs"
+  nav: "cbs"
 ---
 
 ##Innovation often starts with a crisis##

@@ -19,10 +19,10 @@ cbs :
     children:
       - title: "The technology"
         url: /cbs/technology/
-      - tite: "The story of CBS"
+      - title: "The story of CBS"
         url: /cbs/thestoryofcbs/
       - title: "FAQ" 
-        url: "/cbs/faq/"
+        url: /cbs/faq/
       - title: "Governance"
         url: /cbs/governance/
       - title: "CBS in the media"
