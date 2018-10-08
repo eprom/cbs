@@ -21,7 +21,7 @@ cbs :
         url: /cbs/technology/
       - tite: "The story of CBS"
         url: /cbs/thestoryofcbs/
-      - title: FAQ
+      - title: "FAQ" 
         url: "/cbs/faq/"
       - title: "Governance"
         url: /cbs/governance/
