@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2018-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
+  overlay_color: "rgb(255,0,0)"
   overlay_filter: "0.5"
   overlay_image: /assets/images/websitebanner8.png
     
@@ -36,6 +36,6 @@ feature_row:
   
   <a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage2.png"></a>
     
-  <a href="/assets/images/logos.png"><img src="/assets/images/logos.png"></a>
+  <a href="/assets/images/logos1.png"><img src="/assets/images/logos.png"></a>
   
  
