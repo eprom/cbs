@@ -5,7 +5,7 @@ permalink: /
 date: 2018-03-23T11:48:41-04:00
 header:
   overlay_color: "rgb(255,0,0)"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/websitebanner8.png
     
  
