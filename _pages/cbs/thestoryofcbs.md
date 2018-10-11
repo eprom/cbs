@@ -6,7 +6,7 @@ sidebar:
   nav: "cbs"
 ---
 
-##Innovation often starts with a crisis##
+Innovation often starts with a crisis
 
 Our crisis was the Sierra Leone cholera outbreak in 2012. The disease causes acute diarrhea and vomiting, leading to a rapid loss of fluids. Without treatment, the disease can be fatal.
 
@@ -23,7 +23,7 @@ With the excellent help of tech volunteers, we started programming a community b
 
 Last year, a cholera outbreak affected 80 000 people in Somalia. An early version of the community based surveillance tool enabled daily and real time reporting from both clinics and first aid posts during the outbreak. This ensured a targeted response which curbed the epidemic.
 
-##Today, community based surveillance is live in Somalia##
+Today, community based surveillance is live in Somalia.
 
 Through the MVP of the open source software, Somali Red Crescent volunteers are reporting symptoms of cholera from their communities via SMS. The data is monitored and reviewed for unusual spikes in case loads or clusters of cases that may indicate the beginning of a new outbreak. In collaboration with the health authorities we can then respond early, stopping a potential epidemic before it happens.
 
