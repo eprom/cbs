@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2018-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/65432.png
+  overlay_image: /assets/images/654321.png
     
  
 excerpt: ""
