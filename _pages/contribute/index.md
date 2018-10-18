@@ -1,5 +1,5 @@
 ---
-title: Interested in contributing?
+title: Getting Started
 layout: single
 permalink: /contribute/
 sidebar:
