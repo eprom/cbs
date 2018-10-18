@@ -1,9 +1,9 @@
 ---
 title: Interested in contributing?
 layout: single
-permalink: /contribute/
+permalink: /gettingstarted/
 sidebar:
-    nav: "contribute"
+    nav: "gettingstarted"
 ---
 
 As a humanitarian organization, the Norwegian Red Cross (NorCross) understands humanitarian health needs and risks. However we need technical support to create our CBS platform. With the support of bright minds on programming, coding, software-building and user experience we currently have a CBS pilot in Somalia. 
