@@ -45,7 +45,7 @@ As contributors gain experience and familiarity with the project, their profile 
 
 The key difference between a contributor and a core team member is that the core team member takes a larger role in decision making, issue creation and prioritization within the project, and also has the mandate to accept pull-requests from committers. Core team members’ work continues to be reviewed by the community before acceptance through pull requests.
 
-Anyone can become a core team member; there are no special requirements other than to have shown a willingness to the project, normally over a period of time.
+Anyone can become a core team member; there are no special requirements other than to have shown a willingness to the project, normally over a period of time. New core team members are democratically voted in by current core team members and the tech lead. 
 
 New core team members can be nominated at any time. New core team members may decline their nomination. However, this is unusual, as the project does not expect any specific time or resource commitment from its members. The intention behind the role of the core team is to allow people to contribute to the project in a more overarching way, not to tie them in to the project in any formal way. Under normal circumstances, core team membership exists for as long as the committer wishes to continue engaging with the project.
 
@@ -64,8 +64,6 @@ Current core team members are:
 * Karoline Klever
 
 * Sindre Alstad Wilting
-
-* Torstein Heien-Sunde
 
 ## Tech Lead
 
