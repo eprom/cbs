@@ -8,7 +8,7 @@ sidebar:
 
  
 
-1) Read the [contributor guide](https://github.com/IFRCGo/cbs/blob/master/Documentation/Contribution/contributing.md) and code of [conduct](https://src.cbsrc.org/contribute/codeofconduct/). 
+1) Read the [contributor guide](https://github.com/IFRCGo/cbs/blob/master/Documentation/Contribution/contributing.md) and [code of conduct](https://cbsrc.org/contribute/codeofconduct/). 
 
 2) Make sure you have the required [development environment](https://github.com/IFRCGo/cbs/blob/master/Documentation/Contribution/development_environment.md) set up 
 
