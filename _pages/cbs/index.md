@@ -8,7 +8,7 @@ sidebar:
 
 Many outbreaks begin with a cluster of unwell people or sudden deaths in a community which are not detected early enough by traditional surveillance systems. Often the community members are aware of the health threat, but the people who can mobilize response resources receive this information too late to limit the spread of a disease. By allowing for volunteers from the communities to report on health situations we can ensure that help is provided in the right place at the right time. This is CBS!
 
-Community based surveillance (CBS) is the use of feedback from community volunteers to collect, analyse and interpret information on local health risks to prevent, identify and respond to disease outbreaks. As early warning of health risks leads to early action and lives saved, community based surveillance can stop disease outbreaks from turning into large scale epidemics and pandemics.
+Community based surveillance (CBS) is the systematic detection and reporting of events of public health significance within a community by community members. By using feedback from community volunteers, we can collect, analyse and interpret information on local health risks to prevent, identify and respond to disease outbreaks. As early warning of health risks leads to early action and lives saved, community based surveillance can stop disease outbreaks from turning into large scale epidemics and pandemics.
 
 <iframe src="https://www.youtube.com/embed/Sgj6rWieVCk" width="560" height="315" frameborder="0"> </iframe>
 
