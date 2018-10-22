@@ -31,7 +31,7 @@ cbs :
         url: /cbs/documents/  
 
 contribute:
-  - title: GETTING INVOLVED
+  - title: GET INVOLVED
     url: /contribute/
     children:
       - title: "Events"
