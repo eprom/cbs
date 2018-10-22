@@ -1,16 +1,14 @@
 ---
-title: Getting Started
+title: Get Involved
 layout: single
 permalink: /contribute/
 sidebar:
     nav: "contribute"
 ---
 
-The Norwegian Red Cross (NorCross) understands humanitarian health needs and risks. However we need technical support to create our CBS platform. With the support of the bright minds of our tech volunteers, we have created a pilot of the CBS platform which is live in Somalia. We are constantly looking for engaged volunteers to contribute to the development of our community based surveillance platform. 
+The CBS platform is built by technology volunteers and the open source community. With input from the Red Cross and Red Crescent volunteers who are implementing the platform on the ground, the technology volunteers help us create a platform which is fit for purpose and which holds the potential to help save lives.
 
-Whether you are a tech buff, a coding enthusiast, an advertising talent or a graphics aficionado – we need your help to save lives! 
-
-As a volunteer you are free to choose how you want to contribute – whether it contributing five minutes here and there from home or at work, making it your life mission to build the CBS system, or by joining one of our events.  
+We are constantly looking for engaged volunteers to contribute to the development of our community based surveillance platform. 
 
 *There are several ways to start contributing.*  
 - [Contact us](https://cbsrc.org/contactus/) to find out how you can best get started.  
