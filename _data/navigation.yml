@@ -4,7 +4,7 @@ main:
     url: /
   - title: "WHAT IS CBS?"
     url: /cbs/
-  - title: "GETTING STARTED"
+  - title: "GET INVOLVED"
     url: /contribute/
   - title: "BLOG"
     url: https://medium.com/redcrosscbs
@@ -31,7 +31,7 @@ cbs :
         url: /cbs/documents/  
 
 contribute:
-  - title: GETTING STARTED
+  - title: GETTING INVOLVED
     url: /contribute/
     children:
       - title: "Events"
