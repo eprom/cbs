@@ -5,4 +5,4 @@ layout: single
 permalink: /docs/
 ---
 
-Blueprint and technical  docs presented here ...coming soon.
+Blueprint and technical  docs will be available soon. Both of them under construction. 
