@@ -29,5 +29,5 @@ intro:
 {% include feature_row id="feature_row2" type="right" %}
 
 <a href="/assets/images/Frontpageimage2.png"><img src="/assets/images/Frontpageimage21.png"></a>
-  
- <a href="/assets/images/logos2.png"><img src="/assets/images/logos2.png"></a>
+
+<a href="/assets/images/logos2.png"><img src="/assets/images/logos2.png"></a>
