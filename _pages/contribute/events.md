@@ -10,4 +10,4 @@ sidebar:
 
 - ### Codeathon 4.0 January 18th-19th: Save the date! More information coming soon!
 
-<iframe src="https://www.youtube.com/watch?v=6op40mK7rYs&t" width="560" height="315" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
