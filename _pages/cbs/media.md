@@ -6,7 +6,9 @@ sidebar:
   nav: "cbs"
 ---
 
-Sept 29th, 2018. Dagsrevyen: [Nye frivillige i Norge](https://tv.nrk.no/serie/dagsrevyen/NNFA02092918/29-09-2018#t=15m18s)
+October 23rd, 2018. Ingeniørenes Stemme: [Jobber dugnad med kode for å forhindre epidemier i Somaliland](https://www.ingstemme.no/lisa-maurer-rode-kors-anine-kongelf/jobber-dugnad-med-kode-for-a-forhindre-epidemier-i-somalialand/100507)
+
+September 29th, 2018. Dagsrevyen: [Nye frivillige i Norge](https://tv.nrk.no/serie/dagsrevyen/NNFA02092918/29-09-2018#t=15m18s)
 
 June 7th, 2018. Developers on fire podcast ["Karoline Klever - Saving Lives"](http://developeronfire.com/podcast/episode-345-karoline-klever-saving-lives) 
 
