@@ -17,4 +17,4 @@ We are constantly looking for engaged volunteers to contribute to the developmen
 - Pick up stuff to do on the [GitHub page!](https://github.com/IFRCGo/cbs) Contribute what you can, when you want to! If you decide to pick up stuff to do on the GitHub page directly, please follow the [GitHub guide](https://src.cbsrc.org/contribute/githubguide/) and the [Contributor guide.](https://github.com/IFRCGo/cbs/blob/master/Documentation/Contribution/contributing.md)   
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=FZlYPIQFkaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FZlYPIQFkaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
