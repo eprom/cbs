@@ -6,9 +6,9 @@ sidebar:
     nav: "contribute"
 ---
 
-The CBS platform is built by technology volunteers and the open source community. With input from the Red Cross and Red Crescent volunteers who are implementing the platform on the ground, the technology volunteers help us create a platform which is fit for purpose and which holds the potential to help save lives.
+The CBS platform is built by technology contributors and the open source community. With input from the Red Cross and Red Crescent volunteers who are implementing the platform on the ground, the technology contributors help us create a platform which is fit for purpose.
 
-We are constantly looking for engaged volunteers to contribute to the development of our community based surveillance platform. 
+We are constantly looking for engaged contributors to help us with the development of our community based surveillance platform. 
 
 *There are several ways to start contributing.*  
 - [Contact us](https://cbsrc.org/contactus/) to find out how you can best get started.  
