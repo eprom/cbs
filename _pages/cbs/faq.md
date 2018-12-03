@@ -33,14 +33,12 @@ There are many great apps, but to reach communities with limited infrastructure 
 
 ## Why open source?
 
-We wouldn’t want to build something as awesome as this without making it available to anyone who might need it and benefit from it. Furthermore, we’ve benefited a lot from using open source code in components of the software and we hope that others will benefit from
-
-what we are building. CBS is built by a team of amazing volunteers, who contribute with their time, their skills, their dedication and great questions, for a greater good. How could we not make this open source?
+We wouldn’t want to build something as awesome as this without making it available to anyone who might need it and benefit from it. Furthermore, we’ve benefited a lot from using open source code in components of the software and we hope that others will benefit from what we are building. The CBS platform is built by a team of amazing contributors, who contribute with their time, their skills, their dedication and great questions, for a greater good. How could we not make this open source?
 
 ## What is the technology behind CBS?
 
 CBS is a web application built with an Angular2 frontend, a dotnet core backend and a MongoDB database. It is based on an event-driven, microservices architecture, meaning it is developed as several separate applications (or bounded contexts), but appear as one application to the end user. The bounded contexts communicate with each other by publishing and subscribing to events. In production, CBS will run in Docker containers on a managed Kubernetes cluster in Azure Container Service (AKS).
 
-## Why are you asking volunteers to contribute?
+## Why are you asking us to contribute?
 
 The Red Cross Red Crescent is a volunteer movement, with more than 17 million volunteers across the globe. CBS is built for volunteers who use the application to manage health risks in their local communities. It is built by volunteers, because it gives technologists, designers, engineers and many others the opportunity to contribute with their skills and expertise for the direct benefit of other volunteers and communities.
