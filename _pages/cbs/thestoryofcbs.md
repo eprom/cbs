@@ -22,7 +22,7 @@ This is the crisis which sparked the idea for our innovation. By finding a simpl
 
 Following the cholera outbreak, the Norwegian Red Cross tested different community based surveillance (CBS) systems during the ebola outbreak in Sierra Leone and during the plague outbreak in Madagascar. However, all the systems tested required a lot of manual follow up from people. This proved the need for a tool that could both register and analyze data, while still being easy to use for local volunteers and national societies.
 
-With the excellent help of volunteers from the Norwegian tech-community, we started programming a community based surveillance system where Red Cross volunteers based in local communities could report on health risks via SMS. The reports are logged in a system, which allows for an overview and analysis of the health situation. By reviewing the data in real time, we are able to see peaks in diseases cases and provide responses which treat people before more are infected.
+With the excellent help of contributors from the Norwegian tech-community, we started programming a community based surveillance system where Red Cross volunteers based in local communities could report on health risks via SMS. The reports are logged in a system, which allows for an overview and analysis of the health situation. By reviewing the data in real time, we are able to see peaks in diseases cases and provide responses which treat people before more are infected.
 
  <a href="/assets/images/Skjermbilde.PNG"><img src="/assets/images/Skjermbilde.PNG"></a>
 
