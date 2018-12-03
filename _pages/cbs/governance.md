@@ -71,7 +71,9 @@ The tech lead is the NorCross employee responsible for the technological progres
 
 The current tech lead is Samson Geijbo (samson.geijbo@redcross.no)
 
-Domain Experts/Project lead Domain experts are typically appointed by the Red Cross and are a group of health experts who inform and support the development of the CBS project. The domain expert team is led by the Project Lead. Domain experts may make requests for edits or new requests to the contributors on how the CBS software needs to be for simplest/best use by users.
+## Project Lead and Domain Experts
+
+Domain experts are typically appointed by the Red Cross and are a group of health experts who inform and support the development of the CBS project. The domain expert team is led by the Project Lead. Domain experts may make requests for edits or new requests to the contributors on how the CBS software needs to be for simplest/best use by users.
 
 The current project lead is Anine Kongelf (anine.kongelf@redcross.no)
 
