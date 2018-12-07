@@ -12,7 +12,7 @@ In simple terms, the Red Cross CBS platform allows for community volunteers to s
 
 CBS is a web application built with an Angular2 frontend and a dotnet core backend. It is based on an event-driven, microservices architecture, meaning it is developed as several separate applications (or bounded contexts), but appear as one application to the end user. The bounded contexts communicate with each other by publishing and subscribing to events. In production, CBS will run in Docker containers on a managed Kubernetes cluster in Azure Container Service (AKS). It is all open-source and all the techy-information behind the software can be found on our [GitHub page](https://github.com/IFRCGo/cbs).
 
-An MVP is currently operational in Somalia and we are constantly looking for people to help us improve the software. [Click here to see how you can contribute](https://cbsrc.org/gettingstarted/)!
+An MVP is currently operational in Somalia and we are constantly looking for people to help us improve the software. [Click here to see how you can contribute](https://cbsrc.org/contribute/)!
 
 | Name | Description | Issues |
 |---|---|---|
