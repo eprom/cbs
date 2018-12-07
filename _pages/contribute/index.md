@@ -14,7 +14,7 @@ We are constantly looking for engaged contributors to help us with the developme
 - [Contact us](https://cbsrc.org/contactus/) to find out how you can best get started.  
 - Sign up for one of our [Events](https://cbsrc.org/contribute/events/)  
 - Join the discussion on [Slack](https://cbsv2.slack.com)  
-- Pick up stuff to do on the [GitHub page!](https://github.com/IFRCGo/cbs) Contribute what you can, when you want to! If you decide to pick up stuff to do on the GitHub page directly, please follow the [GitHub guide](https://cbsrc.org/contribute/githubguide/) and the [Contributor guide.](https://github.com/IFRCGo/cbs/blob/master/Documentation/Contribution/contributing.md)   
+- Pick up stuff to do on the [GitHub page!](https://github.com/IFRCGo/cbs) Contribute what you can, when you want to! If you decide to pick up stuff to do on the GitHub page directly, please follow the [GitHub guide](https://cbsrc.org/contribute/githubguide/) and read our guide on the [how to contribute](https://github.com/IFRCGo/cbs/wiki/How-to-contribute)   
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FZlYPIQFkaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
