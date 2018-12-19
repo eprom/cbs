@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Other Events
 layout: single
 permalink: /contribute/events/
 sidebar:
