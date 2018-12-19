@@ -1,6 +1,6 @@
 ---
 title: Codeathon 4.0
-layout: single.
+layout: single
 permalink: /contribute/codeathon4/
 sidebar:
   nav: "codeathon4"
@@ -14,4 +14,6 @@ During the two-day codeathon we will be working on improving the MVP which is cu
 During the codeathon you will be joined by Nikolai Astrup, the Norwegian Minister for International Development, as well as leading health and technical development experts. You will hear exiting presentations, simulate and test the CBS system, have a fun community dinner (with entertainment!), get the chance to attend break out sessions with great learning opportunities and much, much more! A detailed agenda will be posted soon. 
 
 [**Sign up here!**](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
