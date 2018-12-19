@@ -8,6 +8,6 @@ sidebar:
 
 ## Upcoming events
 
-- ### Codeathon 4.0 January 18th-19th: [Sign up here!](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) More information coming soon!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- ### [Codeathon 4.0 January 18th-19th](https://cbsrc.org/contribute/codeathon4/)
+- ### Code evening February 6th (more information coming soon)
+- ### Code evening March 6th (more information coming soon)
