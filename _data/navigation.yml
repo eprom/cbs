@@ -35,7 +35,7 @@ contribute:
     url: /contribute/
     children:
       - title: "Codeathon 4.0"
-        url: /contribute/codeathon4.0/
+        url: /contribute/codeathon4/
       - title: "Other Events"
         url: /contribute/events/
       - title: Github guide for CBS
