@@ -5,7 +5,7 @@ permalink: /contribute/codeathon4/
 sidebar:
   nav: "codeathon4"
 ---
-**Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives? **
+**Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?
 
 From January 18th to January 19th, the Red Cross will be hosting the 4th Red Cross Codeathon in Hausmannsgate 7, Oslo! We are looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast, an advertising talent or a graphics aficionado – we need your help! 
 
@@ -15,4 +15,3 @@ During the codeathon you will be joined by Nikolai Astrup, the Norwegian Ministe
 
 [**Sign up here!**](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
