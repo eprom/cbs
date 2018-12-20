@@ -5,7 +5,7 @@ permalink: /contribute/codeathon4/
 sidebar:
   nav: "codeathon4"
 ---
-**Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?
+**Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?**
 
 From January 18th to January 19th, the Red Cross will be hosting the 4th Red Cross Codeathon in Hausmannsgate 7, Oslo! We are looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast, an advertising talent or a graphics aficionado – we need your help! 
 
