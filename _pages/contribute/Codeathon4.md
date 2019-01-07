@@ -25,9 +25,9 @@ During the codeathon you will be joined by Nikolai Astrup, the Norwegian Ministe
 
 [***Sign up here!***](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
 
-**What is a codeathon? Watch the below film for more information!**
+**What is a codeathon?** Watch the below film for more information or [Contact Us!](https://cbsrc.org/contactus/)!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Still got questions? [Contact Us!](https://cbsrc.org/contactus/)
+
 
