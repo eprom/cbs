@@ -6,7 +6,7 @@ sidebar:
   nav: "codeathon4"
 ---
 
-<a href="/assets/images/TimetableCodeathon.PNG"><img src="/assets/images/TimetableCodeathon.PNG"></a>
+<a href="/assets/images/timetablecodeathon1.png"><img src="/assets/images/timetablecodeathon1.png"></a>
 
 [**Sign up here!**](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
 
