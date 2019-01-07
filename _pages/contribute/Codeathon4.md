@@ -1,11 +1,14 @@
 ---
-title: Codeathon 4.0
+title: Codeathon 4.0, 18th-19th of January, 2019
 layout: single
 permalink: /contribute/codeathon4/
 sidebar:
   nav: "codeathon4"
 ---
+
 **Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?**
+
+<a href="/assets/images/timetable codeathon.png"><img src="/assets/images/timetable codeathon.png"></a>
 
 From January 18th to January 19th, the Red Cross will be hosting the 4th Red Cross Codeathon in Hausmannsgate 7, Oslo! For the codeathon, we are looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast, an advertising talent or a graphics aficionado – **we need your help!** 
 
