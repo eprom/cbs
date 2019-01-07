@@ -6,7 +6,7 @@ sidebar:
   nav: "codeathon4"
 ---
 
-**Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?**
+*Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?*
 
 <a href="/assets/images/TimetableCodeathon.PNG"><img src="/assets/images/TimetableCodeathon.PNG"></a>
 
