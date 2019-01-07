@@ -12,7 +12,7 @@ sidebar:
 
 *Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?* 
 
-We are looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast, an advertising talent or a graphics aficionado – **we need your help!** 
+We are looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast or a graphics aficionado – **we need your help!** 
 
 **What can you expect?** 
 
