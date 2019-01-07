@@ -10,7 +10,7 @@ sidebar:
 
 [**Sign up here!**](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
 
-*Do you have knowledge related to software development, coding, user interfaces, graphic design or marketing? Are you eager to learn more? Do you want to help us save lives?* 
+*Do you have knowledge related to software development, coding, user interfaces or graphic design? Are you eager to learn more? Do you want to help us save lives?* 
 
 We are looking for engaged volunteers to contribute to the development of our community based surveillance platform. Whether you are a tech buff, a coding enthusiast or a graphics aficionado – **we need your help!** 
 
