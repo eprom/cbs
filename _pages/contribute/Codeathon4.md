@@ -26,5 +26,6 @@ During the codeathon you will be joined by Nikolai Astrup, the Norwegian Ministe
 **What is a codeathon? Watch the below film for more information!**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Still got questions? (Contact Us!)[https://cbsrc.org/contactus/]
+
+Still got questions? [Contact Us!](https://cbsrc.org/contactus/)
 
