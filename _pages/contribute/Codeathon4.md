@@ -15,7 +15,7 @@ We are looking for engaged volunteers to contribute to the development of our co
 **What can you expect?** 
 During the two-day codeathon we will be working on improving the MVP which is currently being piloted by the Somali Red Crescent Society and getting the system ready to scale-up to more pilot countries. As a Codeathon participant, you will join a team where you will work on pre-defined issues to help us get one step closer to solving an important humanitarian need. Your team will consist of health experts, CBS platform experts and other developers (both new CBS contributors and experienced ones!) *This is a great opportunity to meet new people, play with new technology, work in a dynamic and interesting team - all while saving lives!* 
 
-<figure class="second">
+<figure class="half">
   <a href="/assets/images/Codeathonagenda1.PNG"><img src="/assets/images/Codeathonagenda1.PNG"></a>
   <a href="/assets/images/Codeathonagenda2.PNG"><img src="/assets/images/Codeathonagenda2.PNG"></a>
   
