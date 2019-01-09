@@ -16,7 +16,9 @@ We are looking for engaged volunteers to contribute to the development of our co
 
 **What can you expect?** 
 
-During the two-day codeathon we will be working on improving the MVP which is currently being piloted by the Somali Red Crescent Society and getting the system ready to scale-up to more pilot countries. As a Codeathon participant, you will join a team where you will work on pre-defined issues to help us get one step closer to solving an important humanitarian need. Your team will consist of health experts, CBS platform experts and other developers (both new CBS contributors and experienced ones!) *This is a great opportunity to meet new people, play with new technology, work in a dynamic and interesting team - all while saving lives!* 
+The CBS platform follows the domain-driven design pattern where each “bounded context” acts as a microservice. The communication between the bounded contexts is event-driven, and within each microservice the frontend is based on React (some parts are still being rewritten from Angular), with a .NET Core backend and MongoDb for storage. They are dockerized and deployed to a Kubernetes cluster, with Kafka as the event hub. The analytics bounded context is built with R and D3js. 
+
+As a Codeathon participant, you will join a team where you work with experienced CBS contributors and the Red Cross to help us get one step closer to solving an important humanitarian need. Your team will consist of health experts, CBS platform experts, developers, designers, PMs and data analysis. *This is a great opportunity to meet new people, play with new technology, work in a dynamic and interesting team - all while saving lives!* 
 
 <a href="/assets/images/Codeathonagenda111.PNG"><img src="/assets/images/Codeathonagenda111.PNG"></a>
 <a href="/assets/images/Codeathonagenda222.PNG"><img src="/assets/images/Codeathonagenda222.PNG"></a>
