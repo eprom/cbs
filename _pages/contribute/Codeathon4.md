@@ -16,7 +16,7 @@ We are looking for engaged volunteers to contribute to the development of our co
 
 **What can you expect?** 
 
-The CBS platform follows the domain-driven design pattern where each “bounded context” acts as a microservice. The communication between the bounded contexts is event-driven, and within each microservice the frontend is based on React (some parts are still being rewritten from Angular), with a .NET Core backend and MongoDb for storage. They are dockerized and deployed to a Kubernetes cluster, with Kafka as the event hub. The analytics bounded context is built with R and D3js. 
+During the two-day codeathon, you will be helping us improve on the CBS platform MVP which is currently live in Somaliland. The CBS platform follows the domain-driven design pattern where each “bounded context” acts as a microservice. The communication between the bounded contexts is event-driven, and within each microservice the frontend is based on React (some parts are still being rewritten from Angular), with a .NET Core backend and MongoDb for storage. They are dockerized and deployed to a Kubernetes cluster, with Kafka as the event hub. The analytics bounded context is built with R and D3js. 
 
 As a Codeathon participant, you will join a team where you work with experienced CBS contributors and the Red Cross to help us get one step closer to solving an important humanitarian need. Your team will consist of health experts, CBS platform experts, developers, designers, PMs and data analysis. *This is a great opportunity to meet new people, play with new technology, work in a dynamic and interesting team - all while saving lives!* 
 
