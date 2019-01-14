@@ -8,7 +8,7 @@ sidebar:
 
 <a href="/assets/images/timetablecodeathon1.png"><img src="/assets/images/timetablecodeathon1.png"></a>
 
-[**Sign up here!**](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
+[**Sign up here!**](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register) 
 
 *Do you have knowledge related to software development, coding, user interfaces or graphic design? Are you eager to learn more? Do you want to help us save lives?* 
 
@@ -25,7 +25,7 @@ As a Codeathon participant, you will join a team where you work with experienced
   
 During the codeathon you will be joined by Nikolai Astrup, the Norwegian Minister for International Development, as well as leading health and technical development experts. You will hear exiting presentations, simulate and test the CBS system, have a fun community dinner (with entertainment!), get the chance to attend break out sessions with great learning opportunities and much, much more! 
 
-[***Sign up here!***](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register?templateId=fe307923-a6b0-4d8a-b171-ab3266bd3645) 
+[***Sign up here!***](https://events.provisoevent.no/r%C3%B8dekors/events/RedCrossCodeathon4/register) 
 
 **What is a codeathon?** Watch the below film for more information or [Contact Us!](https://cbsrc.org/contactus/)!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6op40mK7rYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
