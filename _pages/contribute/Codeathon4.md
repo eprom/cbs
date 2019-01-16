@@ -20,8 +20,8 @@ During the two-day codeathon, you will be helping us improve on the CBS platform
 
 As a Codeathon participant, you will join a team where you work with experienced CBS contributors and the Red Cross to help us get one step closer to solving an important humanitarian need. Your team will consist of health experts, CBS platform experts, developers, designers, PMs and data analysis. *This is a great opportunity to meet new people, play with new technology, work in a dynamic and interesting team - all while saving lives!* 
 
-<a href="/assets/images/Codeathonagenda111.PNG"><img src="/assets/images/Codeathonagenda111.PNG"></a>
-<a href="/assets/images/Codeathonagenda222.PNG"><img src="/assets/images/Codeathonagenda222.PNG"></a>
+<a href="/assets/images/agenda0.jpg"><img src="/assets/images/agenda0.jpg"></a>
+<a href="/assets/images/agenda1.jpg"><img src="/assets/images/agenda1.jpg"></a>
   
 During the codeathon you will be joined by Nikolai Astrup, the Norwegian Minister for International Development, as well as leading health and technical development experts. You will hear exiting presentations, simulate and test the CBS system, have a fun community dinner (with entertainment!), get the chance to attend break out sessions with great learning opportunities and much, much more! 
 
