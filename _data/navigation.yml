@@ -34,9 +34,7 @@ contribute:
   - title: GET INVOLVED
     url: /contribute/
     children:
-      - title: "Codeathon 4.0"
-        url: /contribute/codeathon4/
-      - title: "Other Events"
+      - title: "Events"
         url: /contribute/events/
       - title: Github guide for CBS
         url: /contribute/githubguide/
