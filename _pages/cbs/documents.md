@@ -6,8 +6,6 @@ sidebar:
   nav: "cbs"
 ---
 
-## Useful Documents 
-
 - [IFRC CBS guiding principles](http://cruzroja-zika.org/wp-content/uploads/2017/10/CommunityBasedSurveillance_Global_LR.pdf)  
 - [Documentation site on GitHub](https://github.com/IFRCGo/cbs/tree/master/Documentation) 
 - [Watch videos on our YouTube Channel](https://www.youtube.com/channel/UCc_fgXmpXxzJiL2uQBGIpqA) 
